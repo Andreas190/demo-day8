@@ -5,5 +5,6 @@ public class Main {
 
         Animal horse = new Animal(4,"Åke");
         System.out.println(horse.getAge());
+        System.out.println(horse.getName());
     }
 }
